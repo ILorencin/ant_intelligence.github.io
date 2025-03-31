@@ -1,14 +1,17 @@
+---
+layout: home
+title: Ant Intelligence
+---
+
 # Ant Intelligence
 
 Welcome to **Ant Intelligence**, a boutique hub for applied Artificial Intelligence solutions, research, and education.
 
----
 
 ## 👨‍💼 About Us
 
 Led by [Dr. Ivan Lorencin](https://www.linkedin.com/in/ivan-lorencin/), Ant Intelligence builds upon years of expertise in AI applications in medicine, industry, and academia. With a background in both research and real-world deployment of AI models, we bridge the gap between cutting-edge science and practical solutions.
 
----
 
 ## 🧠 What We Do
 
@@ -28,7 +31,6 @@ Led by [Dr. Ivan Lorencin](https://www.linkedin.com/in/ivan-lorencin/), Ant Inte
 - **AI Education & Training**  
   Through workshops, lectures, and tailored programs, we empower individuals and teams to understand and apply AI effectively.
 
----
 
 ## 🏭 Industrial Research Projects
 
@@ -44,8 +46,6 @@ We have successfully contributed to and led various applied AI projects, includi
 - Collaboration with an **international bank** on NLP solutions
 - **Semantic routing chatbot** for intelligent customer query handling
 
----
-
 ## 🛠️ Tech & Tools
 
 We work with modern tools and frameworks, including:
@@ -53,7 +53,6 @@ We work with modern tools and frameworks, including:
 - Azure, AWS, On-premise ML pipelines
 - Streamlit, FastAPI, and custom AI dashboards
 
----
 
 ## 📬 Contact
 
